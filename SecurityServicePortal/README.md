@@ -1,13 +1,4 @@
 # Security Service Portal
-
-## Team Members
-| NAME      | SRN |
-| ----------- | ----------- |
-| Chinmaye A      | PES2UG20CS426       |
-| Emil Bluemax   | PES2UG20CS431       |
-| J P Daniel Christopher | PES2UG20CS433      |
-| Murali Ragavendra C S   | PES2UG20CS440       |
-
 ## Functionality Provided
 + **Security Service agency portal** allows users to book security personnel for various kinds of functions and events. 
 + The main actors who will interact with the system will be the **admin**, **users** and the **security personnel (Guards)**. 
